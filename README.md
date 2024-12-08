@@ -14,7 +14,7 @@
 
 <p align=center>
   <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi%2C+I'm+Hadi+Uzzaman;Laravel+Developer" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi%2C+I'm+Kamrul+Hasan;Laravel+VueJs+Developer" alt="Typing SVG" /></a>
   </div>
 </p>
 
@@ -37,7 +37,7 @@
 
 <br> <br>
 
-[![Hadi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khannahid361&theme=react-dark)](https://github.com/khannahid361/github-readme-activity-graph)
+[![Kamrul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khannahid361&theme=react-dark)](https://github.com/khannahid361/github-readme-activity-graph)
 
     
 <hr>
@@ -49,11 +49,10 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hadi-uzzaman-347b32147/"><img src="https://img.shields.io/badge/-Hadi%20Uzzaman%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:hadi24x7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<!-- <a href="https://instagram.com/Hadi_uzzaman_mridul"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
-<a href="https://www.facebook.com/04hadi/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/18372352/hadi-uzzaman"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&&logo=stack-overflow&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/k-h-nahid-72aa17136/"><img src="https://img.shields.io/badge/-Kamrul%20Hasan%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:khannahid361@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/Mr.Joker361?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/15003141/nahid361"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&&logo=stack-overflow&logoColor=white"/></a>
 </p>
 
 
